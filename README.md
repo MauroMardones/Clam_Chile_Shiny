@@ -1,7 +1,3 @@
-Perfect 👍 Here’s a professional and clear **README.md (in English)** you can include in your repository for your **Shiny app for clam (*Almeja*) fisheries in Chile (2018)**.
-It describes the project purpose, structure, and how to run it — and is written as if your code is organized with `ui.R` and `server.R`.
-
----
 
 ```markdown
 # Clam Fishery Monitoring App (Chile, 2018)
