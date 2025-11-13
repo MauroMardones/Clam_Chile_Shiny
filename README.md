@@ -179,4 +179,3 @@ GitHub: [https://github.com/MauroMardones](https://github.com/MauroMardones)
 
 ---
 
-Would you like me to adapt this README with your actual GitHub repo URL and the real data file names from your app (so it looks ready to publish)?
