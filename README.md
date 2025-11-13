@@ -7,19 +7,18 @@ The app provides interactive tools for exploring spatial and temporal patterns i
 
 ---
 
-## 🐚 Overview
+## Overview
 
 The application allows users to:
 - Visualize fishing activity by region and season.
 - Explore size distributions and biological indicators of clam populations.
-- Analyze trends in fishing effort and catch per unit effort (CPUE).
 - Export summary tables and plots for reporting and management purposes.
 
 The app was designed to support artisanal fishery assessments and data-driven management of benthic resources along the Chilean coast.
 
 ---
 
-## ⚙️ Project Structure
+## Project Structure
 
 ```
 
@@ -36,7 +35,7 @@ Almeja_XI/
 
 ---
 
-## 🖥️ UI and Server Description
+##  UI and Server Description
 
 ### **ui.R**
 Defines the layout and user interface of the application, including:
@@ -126,7 +125,7 @@ shinyServer(function(input, output, session) {
 
 ---
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 1. Clone or download this repository:
 
@@ -152,7 +151,7 @@ shinyServer(function(input, output, session) {
 
 ---
 
-## 🧩 Dependencies
+##  Dependencies
 
 Make sure the following R packages are installed:
 
@@ -162,11 +161,11 @@ install.packages(c("shiny", "leaflet", "ggplot2", "plotly", "dplyr"))
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mauricio Mardones**
-Fisheries Researcher, Chile
-Focus: Artisanal and small-scale fisheries, spatial analysis, and R/Shiny applications.
+Fisheries Researcher, Chile-Spain
+Focus: Artisanal and small-scale fisheries, spatial analysis, and stock assessment models.
 GitHub: [https://github.com/MauroMardones](https://github.com/MauroMardones)
 
 ---
